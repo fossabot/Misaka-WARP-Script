@@ -21,6 +21,7 @@ https://p3terx.com/archives/use-cloudflare-warp-to-add-extra-ipv4-or-ipv6-networ
 ## 各客户端差异及对比
 
 ![image](https://user-images.githubusercontent.com/96560028/160945334-9572ec6d-7b10-4081-a83a-2d1c475ea2e3.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMisaka-blog%2FMisaka-WARP-Script.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMisaka-blog%2FMisaka-WARP-Script?ref=badge_shield)
 
 ## WARP+或WARP Teams账户获取
 
@@ -60,3 +61,7 @@ WireProxy：https://github.com/octeep/wireproxy
 Wgcf：https://github.com/ViRb3/wgcf
 
 CloudFlare WARP Linux Client：https://blog.cloudflare.com/zh-cn/announcing-warp-for-linux-and-proxy-mode-zh-cn/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMisaka-blog%2FMisaka-WARP-Script.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMisaka-blog%2FMisaka-WARP-Script?ref=badge_large)
